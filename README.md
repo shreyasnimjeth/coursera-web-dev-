@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages</br>
-module-2-solution:- https://shreyasnimjeth.github.io/coursera-web-dev-/module-2-solutions/
-module-3-solution:- https://shreyasnimjeth.github.io/coursera-web-dev-/module-3-solution/
-module-4-solution:-
-module-5-solution:-
+module-2-solution:- https://shreyasnimjeth.github.io/coursera-web-dev-/module-2-solutions/ </br>
+module-3-solution:- https://shreyasnimjeth.github.io/coursera-web-dev-/module-3-solution/ </br>
+module-4-solution:-</br>
+module-5-solution:-</br>
 
 You can use the [editor on GitHub](https://github.com/shreyasnimjeth/coursera-web-dev-/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
